@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sonu giri</h1>
 <h3 align="center">Software Engineer in the Making</h3>
-
+<img src="https://github.com/im-sonu-giri/im-sonu-giri/blob/main/progr.jpeg">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/sonu giri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sonu giri" height="30" width="40" /></a>
