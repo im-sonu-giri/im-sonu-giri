@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonu Giri</h1>
-<h3 align="center">Aspiring Software Engineer | Backend Developer | DevOps Enthusiast</h3>
+<h3 align="center">Aspiring Software Engineer | Exploring Backend Development & DevOps</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
