@@ -13,5 +13,5 @@
   <b>Also exploring:</b>
 </p>
 <ul>
-  <li>Machine Learning (whenever I get the chance)</li>
+  <li>Machine Learning</li>
 </ul>
