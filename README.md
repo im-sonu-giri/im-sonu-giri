@@ -1,5 +1,5 @@
 # 💫 About Me:
- -I’m currently working on **Python backend, Django projects**<br>-  Learning **advanced DevOps tools and CI/CD pipelines**<br>- Experienced with **Django, React, REST APIs, MongoDB,postgresql**<br>- Fun fact: I love **automating tasks**, exploring **new tech**<br>
+ -I’m currently working on **Python backend, Django projects**<br>-  Learning **advanced DevOps tools and CI/CD pipelines**<br>- Experienced with **Django, React, REST APIs, MongoDB,postgresql**<br>
 
 
 ## 🌐 Socials:
