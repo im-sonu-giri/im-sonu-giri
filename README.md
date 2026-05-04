@@ -23,7 +23,7 @@ Software Engineering student at **Nepal College of Information Technology (NCIT)
 
 ### Tech Stack
 
-**Languages**&ensp; `Python` · `JavaScript` · `C++` · `Java`
+**Languages**&ensp; `Python` · `JavaScript` 
 
 **Backend**&ensp;&ensp; `Django` · `FastAPI` · `Node.js` · `Express.js`
 
@@ -35,27 +35,10 @@ Software Engineering student at **Nepal College of Information Technology (NCIT)
 
 **Tools**&ensp;&ensp;&ensp;&ensp;&ensp; `Git` · `Postman` · `NumPy` · `Pandas`
 
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**Employee Management System**](https://github.com/im-sonu-giri/Employee-management-system) | Full-stack HR platform — attendance, leave management, payslip generation | React · Node.js · MongoDB |
-| [**Clinic Management System**](https://github.com/im-sonu-giri/Clinic_management_system) | Healthcare ops — patient records, appointments, doctor dashboards | React · Node.js |
-| [**Nepali License Plate Recognition**](https://github.com/im-sonu-giri/-Nepali_License_Plate_Recognition) | ML-based license plate detection and recognition system | Python · OpenCV |
-| [**E-Commerce Website**](https://github.com/im-sonu-giri/E-commerce-website) | Online shopping platform with full cart & checkout flow | JavaScript |
-| [**Chat Application**](https://github.com/im-sonu-giri/chat-application) | Real-time messaging application | JavaScript |
-| [**Sentiment Analysis System**](https://github.com/im-sonu-giri/sentimentanalysis_system) | NLP-based sentiment classification | Python · Jupyter |
-
----
 
 ### GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=im-sonu-giri&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true" height="150" />
-&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=im-sonu-giri&theme=default&hide_border=true" height="150" />
 
 </div>
